@@ -13,7 +13,7 @@ h1{
 
 h3{
     margin:0px;
-    color: rgb(206, 216, 167);
+    color:#A9A9A9;
 }
 
 h2{
@@ -30,7 +30,7 @@ a {
 }
 
 a:visited {
-    color: rgb(159, 192, 128);
+    color:#FFB6C1 ;
     text-decoration: none;
 }
 
