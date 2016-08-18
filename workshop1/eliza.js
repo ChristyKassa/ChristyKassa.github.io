@@ -44,7 +44,7 @@ var rules = {
     "they're lame",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "its too late 2 apologize",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
